@@ -70,5 +70,3 @@ A simple Python-based Password Manager that allows you to securely store, retrie
 
 This project is open-source and available under the [MIT License](LICENSE).
 ```
-
-Copy this into your **README.md** file in the repository root!
