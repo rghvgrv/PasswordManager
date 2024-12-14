@@ -1,11 +1,11 @@
-# Password Manager
+# Password Manager 
 
-A simple Python-based Password Manager that allows you to securely store, retrieve, and manage your passwords.
+A simple Python-based Password Manager that allows you to store, retrieve, and manage your passwords securely.
 
 ## Features
 
 - **Password Storage**: Save credentials securely in a local file.
-- **Encryption**: Uses encryption for better security (key stored in `key.key` file).
+- **Encryption**: This uses encryption for better security (the key is stored in the `key.key` file).
 - **Command-line Interface**: Easy-to-use CLI for adding, retrieving, and managing passwords.
 
 ## Prerequisites
