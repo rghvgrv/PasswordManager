@@ -13,7 +13,7 @@ A simple Python-based Password Manager that allows you to store, retrieve, and m
 - Python 3.x installed on your system.
 
 ## Installation
-
+ 
 1. Clone the repository:
    ```bash
    git clone https://github.com/rghvgrv/PasswordManager.git
